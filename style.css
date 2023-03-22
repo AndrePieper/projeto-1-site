@@ -1,10 +1,10 @@
-* {
+* {/* "*"=tudo */
     margin: 0px;
     padding: 0px;
 }
 
 body {
-    background-color: #C5B4F08E;
+    background-color: #C5B4F08E;/*cor do corpo*/
 }
 
 header {
@@ -76,12 +76,12 @@ article > p {
     margin: 15px 0px;
     text-align: justify;
     text-indent: 30px;
-    line-height: 1.5em;
+    line-height: 1.5em;/*em = tamanho em comparaçao com o tamanho da fonte */
 }
 
 article > ul {
     padding: 10px;
-    line-height: 1.5em;
+    line-height: 1.5em;/*em = tamanho em comparaçao com o tamanho da fonte */
 }
 
 footer {
@@ -89,7 +89,7 @@ footer {
     color: white;
     font-weight: bold;
     text-align: center;
-    font-size: 1em;
+    font-size: 1em;/*em = tamanho em comparaçao com o tamanho da fonte */
     padding: 5px;
 
 }
